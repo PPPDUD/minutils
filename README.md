@@ -19,7 +19,7 @@ Example: `minutils-rm abc xyz tuv`
 
 ### cp
 > [!NOTE]
-> The `minutils` implementation of cp only accepts two arguments (extras are ignored). This means that traditional shell globbing (`cp xyz/* abc/`) does not work properly.
+> The `minutils` implementation of cp only accepts two arguments (extras are ignored). This means that traditional shell globbing (`cp xyz/* abc/`) does not work properly at the moment.
 
 Copy the file specified in the first argument to the filename specified in the second argument. You cannot copy to a directory without specifying the destination filename.
 
