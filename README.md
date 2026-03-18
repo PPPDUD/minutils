@@ -1,5 +1,5 @@
 # minutils
-`minutils` is a portable Unix-like toolset that supplies lightweight implementations of popular Unix-like commands.
+`minutils` is a portable Unix-like toolset that supplies lightweight implementations of popular commands.
 
 ## Commands
 ### echo
