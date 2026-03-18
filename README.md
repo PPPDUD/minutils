@@ -1,14 +1,5 @@
 # minutils
-`minutils` is a portable Unix-like toolset that supplies implementations of these commands:
-- echo
-- mkdir
-- rm
-- cp
-- ls
-- touch
-- more coming soon!
-
-Note that these implementations are _not_ POSIX-compliant.
+`minutils` is a portable Unix-like toolset that supplies lightweight implementations of popular Unix-like commands.
 
 ## Commands
 ### echo
