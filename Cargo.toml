@@ -1,0 +1,10 @@
+[package]
+name = "minutils"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "minutils_common"
+path = "src/lib.rs"
+
+[dependencies]
