@@ -37,3 +37,8 @@ Example: `minutils-ls ~/`
 If the file path specified in the first argument doesn't exist, create it; otherwise exit silently.
 
 Example: `touch abc`
+
+### minutils
+Show the current version of minutils and its included binaries.
+
+Example: `minutils`
