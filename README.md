@@ -36,7 +36,12 @@ Example: `minutils-ls ~/`
 
 If the file path specified in the first argument doesn't exist, create it; otherwise exit silently.
 
-Example: `touch abc`
+Example: `minutils-touch abc`
+
+### cat
+Concatenate the specified file(s) line-by-line and output the results to `stdout`; if no arguments were used, parrot back lines from `stdin`.
+
+Example: `minutils-cat dog`
 
 ### minutils
 Show the current version of minutils and its included binaries.
